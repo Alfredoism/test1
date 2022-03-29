@@ -1,2 +1,2 @@
 <php echo puphpinfo();?>
-status
+echo 'status'
